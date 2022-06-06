@@ -1,5 +1,5 @@
 # 💫About Me :
-🤓 I'm learning Laravel and everything else funny about programming :)
+🤓 I'm learning Laravel and everything else funny about programming :)<br/>
 💕 Programming is the most enjoyable job for me !
 
 ## 🌐Socials
